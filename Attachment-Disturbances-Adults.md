@@ -1,11 +1,28 @@
 # Summary of Attachment Disturbances in Adults: Treatment for Comprehensive Repair, by Daniel P. Brown PhD and David S. Elliott PhD
 
-## EDITORS NOTE
-**This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) and [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 
+**This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
 
-**If you appreciate this work, feel free to buy the original using my referral-link**
+> It offers an innovative therapeutic model and set of methods for treating adult patients with dismissing, anxious-preoccupied, or disorganized attachment. In rich detail, it integrates historical and leading-edge attachment research into practical, effective treatment protocols for each type of insecure attachment. Case transcripts and many sample therapist phrasings illustrate how to apply the methods in practice.
+> 
+> Part I, "Foundational Concepts," features a comprehensive overview of the field of attachment, including its history, seminal ideas, and existing knowledge about the development of attachment bonds and behaviors.
+> 
+> Part II, "Assessment," addresses the assessment of attachment disturbances. It includes an overview of attachment assessment for the clinician and a trove of practical recommendations for assessing patients' attachment behavior and status both outside of and within the therapeutic relationship.
+> 
+> In Part III, "Treatment," the authors not only review existing treatment approaches for attachment disorders in adults, but also introduce an unprecedented, powerful new treatment method. This method, the "Three Pillars" model, is built on three essential clinical ingredients:
+>
+> - Systematically utilizing ideal parent figure imagery to develop a new positive, stable internal working model of secure attachment
+> - Fostering a range of metacognitive skills
+> - Fostering nonverbal and verbal collaborative behavior in treatment
+> 
+> Used together, these interdependent pillars form a unified and profoundly effective method of treatment for attachment disturbances in adults―a must for any clinician.
+>
+> In Part IV, "Type-Specific Treatment," readers will learn specific variations of the three treatment pillars to maximize efficacy with each type of insecure attachment.
+> 
+> Finally, Part V, "A Treatment Guide and Expected Outcomes," describes treatment in a step-by-step format and provides a success-assessment guide for the Three Pillars approach.
+> 
+> This book is a comprehensive educational resource and a deeply practical clinical guide. It offers clinicians a complete set of tools for effective and efficient treatment of adult patients with attachment disturbances. - [_Attachment Disturbances: Treatment for Comprehensive Repair_](https://www.amazon.com/Attachment-Disturbances-Adults-Treatment-Comprehensive/dp/0393711528/?&tag=cognitivetech-20)
 
-* [Attachment Disturbances: Treatment for Comprehensive Repair](https://www.amazon.com/Attachment-Disturbances-Adults-Treatment-Comprehensive/dp/0393711528/?&tag=cognitivetech-20)
+
 
 ## Contents
 - [A Reader’s Guide](#a-readers-guide)
