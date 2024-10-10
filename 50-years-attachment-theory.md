@@ -1,28 +1,24 @@
 # Summary of Fifty Years of Attachment Theory: The Donald Winnicott Memorial Lecture 
 
-## EDITORS NOTE
-**This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) using [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 
+**This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
 
 **If you appreciate this work, feel free to buy the original  using my referral-link**
 
 [A Secure Base (Routledge Classics)](https://www.amazon.com/Fifty-Years-Attachment-Theory-Psychoanalysis/dp/1855753855/?&tag=cognitivetech-20)
 
 ## Contents
-- [Summary of Fifty Years of Attachment Theory: The Donald Winnicott Memorial Lecture](#summary-of-fifty-years-of-attachment-theory-the-donald-winnicott-memorial-lecture)
-  - [EDITORS NOTE](#editors-note)
-  - [Contents](#contents)
-  - [FOREWORD](#foreword)
-  - [INTRODUCTION OF SIR RICHARD BOWLBY, BRETT KAHR](#introduction-of-sir-richard-bowlby-brett-kahr)
-  - [SIR RICHARD BOWLBY](#sir-richard-bowlby)
-  - [INTERVIEW](#interview)
-    - [The Nature of the Child’s Tie to its Mother](#the-nature-of-the-childs-tie-to-its-mother)
-    - [Financial and Emotional Obstacles](#financial-and-emotional-obstacles)
-    - [Fifty Years of Attachment Theory](#fifty-years-of-attachment-theory)
-    - [Children learn from their parents](#children-learn-from-their-parents)
-  - [INTRODUCTION OF PEARL KING, BRETT KAHR](#introduction-of-pearl-king-brett-kahr)
-  - [PEARL KING](#pearl-king)
-    - [**Donald Winnicott and John Bowlby**](#donald-winnicott-and-john-bowlby)
-  - [QUESTIONS TO SIR RICHARD BOWLBY](#questions-to-sir-richard-bowlby)
+- [FOREWORD](#foreword)
+- [INTRODUCTION OF SIR RICHARD BOWLBY, BRETT KAHR](#introduction-of-sir-richard-bowlby-brett-kahr)
+- [SIR RICHARD BOWLBY](#sir-richard-bowlby)
+- [INTERVIEW](#interview)
+  - [The Nature of the Child’s Tie to its Mother](#the-nature-of-the-childs-tie-to-its-mother)
+  - [Financial and Emotional Obstacles](#financial-and-emotional-obstacles)
+  - [Fifty Years of Attachment Theory](#fifty-years-of-attachment-theory)
+  - [Children learn from their parents](#children-learn-from-their-parents)
+- [INTRODUCTION OF PEARL KING, BRETT KAHR](#introduction-of-pearl-king-brett-kahr)
+- [PEARL KING](#pearl-king)
+  - [**Donald Winnicott and John Bowlby**](#donald-winnicott-and-john-bowlby)
+- [QUESTIONS TO SIR RICHARD BOWLBY](#questions-to-sir-richard-bowlby)
 
 ## FOREWORD
 

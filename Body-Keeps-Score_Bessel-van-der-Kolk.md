@@ -1,11 +1,8 @@
 # Summary of Bessel van der Kolk's The Body Keeps the Score
 
-## EDITORS NOTE
-**This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) and [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 
+**This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
 
-**If you appreciate this work, feel free to buy the original using my referral-link**
-
-* [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/?&tag=cognitivetech-20)
+> Trauma is a fact of life. Veterans and their families deal with the painful aftermath of combat; one in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence. Dr. Bessel van der Kolk, one of the world’s foremost experts on trauma, has spent over three decades working with survivors. In The Body Keeps the Score, he uses recent scientific advances to show how trauma literally reshapes both body and brain, compromising sufferers’ capacities for pleasure, engagement, self-control, and trust. He explores innovative treatments—from neurofeedback and meditation to sports, drama, and yoga—that offer new paths to recovery by activating the brain’s natural neuroplasticity. Based on Dr. van der Kolk’s own research and that of other leading specialists, The Body Keeps the Score exposes the tremendous power of our relationships both to hurt and to heal—and offers new hope for reclaiming lives. - [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748/?&tag=cognitivetech-20)
 
 ## Contents
 - [Summary of Bessel van der Kolk's The Body Keeps the Score](#summary-of-bessel-van-der-kolks-the-body-keeps-the-score)
