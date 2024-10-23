@@ -34,46 +34,16 @@ The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehen
 - [Section II. Diagnostic Criteria and Codes](#section-ii-diagnostic-criteria-and-codes)
   - [Neurodevelopmental Disorders](#neurodevelopmental-disorders)
     - [Intellectual Disabilities](#intellectual-disabilities)
-      - [Intellectual Disabilities (Intellectual Developmental Disorders)](#intellectual-disabilities-intellectual-developmental-disorders)
-      - [Global Developmental Delay 315.8](#global-developmental-delay-3158)
-      - [Unspecified Intellectual Disability (Intellectual Developmental Disorder (319)](#unspecified-intellectual-disability-intellectual-developmental-disorder-319)
     - [Communication Disorders](#communication-disorders)
-      - [Language Disorder (315.39)](#language-disorder-31539)
-      - [Speech Sound Disorder (SSD) (315.39)](#speech-sound-disorder-ssd-31539)
-      - [Childhood-Onset Fluency Disorder (Stuttering) (315.35)](#childhood-onset-fluency-disorder-stuttering-31535)
-      - [Social (Pragmatic) Communication Disorder 315.39](#social-pragmatic-communication-disorder-31539)
-      - [Unspecified Communication Disorder (307.9)](#unspecified-communication-disorder-3079)
     - [Autism Spectrum Disorder](#autism-spectrum-disorder)
-      - [Autism Spectrum Disorder (ASD) (299)](#autism-spectrum-disorder-asd-299)
     - [Attention-Deficit/Hyperactivity Disorder](#attention-deficithyperactivity-disorder)
-      - [Attention-Deficit/Hyperactivity Disorder (ADHD)](#attention-deficithyperactivity-disorder-adhd)
-      - [Other Specified Attention-Deficit Hyperactivity Disorder (314.01)](#other-specified-attention-deficit-hyperactivity-disorder-31401)
-      - [Unspecified ADHD (314.01)](#unspecified-adhd-31401)
     - [Specific Learning Disorder](#specific-learning-disorder)
-      - [Specific Learning Disorder (SLD)](#specific-learning-disorder-sld)
     - [Motor Disorders](#motor-disorders)
-      - [Developmental Coordination Disorder (315.4)](#developmental-coordination-disorder-3154)
-      - [Stereotypic Movement Disorder (307.3)](#stereotypic-movement-disorder-3073)
     - [Tic Disorders](#tic-disorders)
-      - [Other Specified Tic Disorder (307.20)](#other-specified-tic-disorder-30720)
-      - [Unspecified Tic Disorder (307.20)](#unspecified-tic-disorder-30720)
     - [Other Neurodevelopmental Disorders](#other-neurodevelopmental-disorders)
-      - [Other Specified Neurodevelopmental Disorder (315.8)](#other-specified-neurodevelopmental-disorder-3158)
-      - [Unspecified Neur odevelopmen tal Disorder (315.9)](#unspecified-neur-odevelopmen-tal-disorder-3159)
   - [Schizophrenia Spectrum and Other Psychotic Disorders](#schizophrenia-spectrum-and-other-psychotic-disorders)
     - [Schizotypal (Personality) Disorder](#schizotypal-personality-disorder)
-      - [Delusional Disorder (297.1)](#delusional-disorder-2971)
-      - [Brief Psychotic Disorder (298.8)](#brief-psychotic-disorder-2988)
-      - [Schizophreniform Disorder (295.40)](#schizophreniform-disorder-29540)
-      - [Schizophrenia (295.90)](#schizophrenia-29590)
-      - [Schizoaffective Disorder](#schizoaffective-disorder)
-      - [Substance/Medication-Induced Psychotic Disorder](#substancemedication-induced-psychotic-disorder)
-      - [Psychotic Disorder Due to Another Medical Condition](#psychotic-disorder-due-to-another-medical-condition)
     - [Catatonia](#catatonia)
-      - [Catatonia Associated With Another Mental Disorder (Catatonia Specifier) (293.89)](#catatonia-associated-with-another-mental-disorder-catatonia-specifier-29389)
-      - [Unspecified Catatonia](#unspecified-catatonia)
-      - [Other Specified Schizophrenia Spectrum and Other Psychotic Disorder](#other-specified-schizophrenia-spectrum-and-other-psychotic-disorder)
-      - [Unspecified Schizophrenia Spectrum and Other Psychotic Disorder](#unspecified-schizophrenia-spectrum-and-other-psychotic-disorder)
   - [Bipolar and Related Disorders](#bipolar-and-related-disorders)
     - [Bipolar I Disorder](#bipolar-i-disorder)
     - [Bipolar II Disorder](#bipolar-ii-disorder)
@@ -141,22 +111,7 @@ The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehen
     - [Hypersomnolence Disorder](#hypersomnolence-disorder)
     - [Narcolepsy](#narcolepsy)
     - [Breathing- Related Sleep Disorders](#breathing--related-sleep-disorders)
-      - [Obstructive Sleep Apnea Hypopnea](#obstructive-sleep-apnea-hypopnea)
-      - [Central Sleep Apnea](#central-sleep-apnea)
-      - [Sleep-Related Hypoventilation](#sleep-related-hypoventilation)
-      - [Circadian Rhythm Sleep-Wake Disorders](#circadian-rhythm-sleep-wake-disorders)
-      - [Advanced Sleep Phase Type](#advanced-sleep-phase-type)
-      - [Irregular Sleep-Wake Type](#irregular-sleep-wake-type)
-      - [Non-24-Hour Sleep-Wake Type](#non-24-hour-sleep-wake-type)
-      - [Shift Work Type](#shift-work-type)
     - [Parasomnias](#parasomnias)
-      - [Non-Rapid Eye Movement Sleep Arousal Disorders](#non-rapid-eye-movement-sleep-arousal-disorders)
-      - [Nightmare Disorder](#nightmare-disorder)
-      - [Rapid Eye Movement Sleep Behavior Disorder](#rapid-eye-movement-sleep-behavior-disorder)
-      - [Restless Legs Syndrome](#restless-legs-syndrome)
-      - [Substance/Medication-Induced Sleep Disorder](#substancemedication-induced-sleep-disorder)
-      - [Other Specified Insomnia Disorder](#other-specified-insomnia-disorder)
-      - [Unspecified Sleep-Wake Disorder](#unspecified-sleep-wake-disorder)
   - [Sexual Dysfunctions](#sexual-dysfunctions)
     - [Delayed Ejaculation](#delayed-ejaculation)
     - [Erectile Disorder](#erectile-disorder)
@@ -177,84 +132,26 @@ The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehen
     - [Kleptomania](#kleptomania)
   - [Substance-Related and Addictive Disorders](#substance-related-and-addictive-disorders)
     - [Substance-Induced Disorders](#substance-induced-disorders)
-      - [Substance/Medication-Induced Mental Disorders](#substancemedication-induced-mental-disorders)
     - [Alcohol-Related Disorders](#alcohol-related-disorders)
-      - [Alcohol Use Disorder (AUD)](#alcohol-use-disorder-aud)
-      - [Alcohol Intoxication](#alcohol-intoxication)
-      - [Alcohol Withdrawal](#alcohol-withdrawal)
-      - [Other Alcohol-Induced Disorders](#other-alcohol-induced-disorders)
     - [Caffeine- Related Disorders](#caffeine--related-disorders)
-      - [Caffeine Withdrawal](#caffeine-withdrawal)
     - [Cannabis- Related Disorders](#cannabis--related-disorders)
-      - [Cannabis Use Disorder](#cannabis-use-disorder)
-      - [Cannabis Intoxication](#cannabis-intoxication)
-      - [Cannabis Withdrawal](#cannabis-withdrawal)
-      - [Other Cannabis-Induced Disorders](#other-cannabis-induced-disorders)
     - [Hallucinogen- Related Disorders](#hallucinogen--related-disorders)
     - [Phencyclidine](#phencyclidine)
-      - [Other Hallucinogen Use Disorder](#other-hallucinogen-use-disorder)
-      - [Phencyclidine Intoxication](#phencyclidine-intoxication)
-      - [Other Hallucinogen Intoxication](#other-hallucinogen-intoxication)
-      - [Hallucinogen Persisting Perception Disorder](#hallucinogen-persisting-perception-disorder)
-      - [Other Hallucinogen-Induced Disorders](#other-hallucinogen-induced-disorders)
-      - [Unspecified Hallucinogen -Related Disorder](#unspecified-hallucinogen--related-disorder)
     - [Inhalant-Related Disorders](#inhalant-related-disorders)
-      - [Inhalant Intoxication](#inhalant-intoxication)
-      - [Other Inhalant-Induced Disorders](#other-inhalant-induced-disorders)
     - [Opioid-Related Disorders](#opioid-related-disorders)
-      - [Opioid Use Disorder](#opioid-use-disorder)
-      - [Opioid Intoxication](#opioid-intoxication)
-      - [Opioid Withdrawal](#opioid-withdrawal)
-      - [Other Opioid-lnduced Disorders](#other-opioid-lnduced-disorders)
     - [Sedative-, Hypnotic-, or Anxiolytic- Related Disorders](#sedative--hypnotic--or-anxiolytic--related-disorders)
-      - [Sedative, Hypnotic, or Anxiolytic Intoxication](#sedative-hypnotic-or-anxiolytic-intoxication)
-      - [Sedative, Hypnotic, or Anxiolytic Withdrawal](#sedative-hypnotic-or-anxiolytic-withdrawal)
-      - [Other sedative-, hypnotic-, or anxiolytic-induced disorders](#other-sedative--hypnotic--or-anxiolytic-induced-disorders)
     - [Stimulant-Related Disorders](#stimulant-related-disorders)
-      - [Stimulant Intoxication](#stimulant-intoxication)
-      - [Stimulant Withdrawal](#stimulant-withdrawal)
-      - [Other Stimulant-Induced Disorders](#other-stimulant-induced-disorders)
     - [Tobacco-Related Disorders](#tobacco-related-disorders)
-      - [Tobacco Use Disorder](#tobacco-use-disorder)
-      - [Tobacco Withdrawal](#tobacco-withdrawal)
-      - [Other Tobacco-Induced Disorders](#other-tobacco-induced-disorders)
     - [Other (or Unknown) Substance-Related Disorders Other (or Unknown)](#other-or-unknown-substance-related-disorders-other-or-unknown)
-      - [Other (or Unknown) Substance Intoxication](#other-or-unknown-substance-intoxication)
-      - [Other (or Unknown) Substance Withdrawal](#other-or-unknown-substance-withdrawal)
-      - [Other (or Unknown) Substance-Induced Disorders](#other-or-unknown-substance-induced-disorders)
-      - [Unspecified Other (or Unknown) Substance -Related Disorder](#unspecified-other-or-unknown-substance--related-disorder)
     - [Non-Substance-Related Disorders](#non-substance-related-disorders)
   - [Neurocognitive Disorders](#neurocognitive-disorders)
     - [Delirium](#delirium)
     - [Major and Mild Neurocognitive Disorders](#major-and-mild-neurocognitive-disorders)
-      - [Major Neurocognitive](#major-neurocognitive)
-      - [Mild Neurocognitive Disorder](#mild-neurocognitive-disorder)
-      - [Major or Mild Neurocognitive Disorder due to Alzheimer's](#major-or-mild-neurocognitive-disorder-due-to-alzheimers)
-      - [Major or Mild Frontotemporal Neurocognitive Disorder](#major-or-mild-frontotemporal-neurocognitive-disorder)
-      - [Major or Mild Neurocog nitive Disorder with Lewy Bodies](#major-or-mild-neurocog-nitive-disorder-with-lewy-bodies)
-      - [Major or Mild Vascular Neurocognitive Disorder](#major-or-mild-vascular-neurocognitive-disorder)
-      - [Major/Mild Neurocognitive Disorder from Traumatic Brain Injury](#majormild-neurocognitive-disorder-from-traumatic-brain-injury)
-      - [Substance/Medication-Induced Major or Mild Neurocognitive Disorder](#substancemedication-induced-major-or-mild-neurocognitive-disorder)
-      - [Major or Mild Neur ocog nitive Disorder Due to HIV Infection](#major-or-mild-neur-ocog-nitive-disorder-due-to-hiv-infection)
-      - [Major or Mild Neurocognitive Disorder Due to Prion Disease](#major-or-mild-neurocognitive-disorder-due-to-prion-disease)
-      - [Major or Mild Neurocognitive Disorder Due to Parkinson's Disease](#major-or-mild-neurocognitive-disorder-due-to-parkinsons-disease)
-      - [Major or Mild Neurocognitive Disorder Due to Huntington's Disease](#major-or-mild-neurocognitive-disorder-due-to-huntingtons-disease)
-      - [Major or Mild Neurocognitive Disorder Due to Another Medical Condition](#major-or-mild-neurocognitive-disorder-due-to-another-medical-condition)
-      - [Major or Mild Neurocognitive Disorder Due to Multiple Etiologies](#major-or-mild-neurocognitive-disorder-due-to-multiple-etiologies)
   - [Personality Disorders](#personality-disorders)
     - [General Personality Disorder](#general-personality-disorder)
     - [Cluster A Personality Disorders](#cluster-a-personality-disorders)
-      - [Paranoid Personality Disorder](#paranoid-personality-disorder)
-      - [Schizoid Personality Disorder](#schizoid-personality-disorder)
-      - [Schizotypal Personality Disorder](#schizotypal-personality-disorder-1)
     - [Cluster B Personality Disorders](#cluster-b-personality-disorders)
-      - [Borderline Personality Disorder](#borderline-personality-disorder)
-      - [Histrionic Personality Disorder](#histrionic-personality-disorder)
-      - [Narcissistic Personality Disorder](#narcissistic-personality-disorder)
     - [Cluster C Personality Disorders](#cluster-c-personality-disorders)
-      - [Dependent Personality Disorder](#dependent-personality-disorder)
-      - [Obsessive-Compulsive Personality Disorder](#obsessive-compulsive-personality-disorder)
-      - [Other Personality Disorders](#other-personality-disorders)
   - [Paraphilic Disorders](#paraphilic-disorders)
     - [Voyeuristic Disorder](#voyeuristic-disorder)
     - [Exhibitionistic Disorder](#exhibitionistic-disorder)
@@ -267,14 +164,7 @@ The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehen
     - [Other Specified Paraphilic Disorder](#other-specified-paraphilic-disorder)
   - [Other Mental Disorders](#other-mental-disorders)
     - [Medication-Induced Movement Disorders and Other Adverse Effects of Medication](#medication-induced-movement-disorders-and-other-adverse-effects-of-medication)
-      - [Neuroleptic Malignant Syndrome](#neuroleptic-malignant-syndrome)
-      - [Tardive Dyskinesia](#tardive-dyskinesia)
-      - [Other Conditions That May Be a Focus of Clinical Attention](#other-conditions-that-may-be-a-focus-of-clinical-attention)
-      - [Other Circumstances Related to Child Physical Abuse](#other-circumstances-related-to-child-physical-abuse)
-      - [Adult Maltreatment and Neglect Problems](#adult-maltreatment-and-neglect-problems)
-      - [Educational and Occu pationa l Problems \\ Educ ational Problems](#educational-and-occu-pationa-l-problems--educ-ational-problems)
     - [Other Problems Rela ted to the Social Environment](#other-problems-rela-ted-to-the-social-environment)
-      - [Unavailability or Inaccessibility of Health Care Facilities](#unavailability-or-inaccessibility-of-health-care-facilities)
 - [Section III. Emerging Measures and Models](#section-iii-emerging-measures-and-models)
   - [Assessment Measures](#assessment-measures)
     - [Cross-Cutting Symptom Measures](#cross-cutting-symptom-measures)
@@ -285,12 +175,6 @@ The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehen
     - [Cultural Formulation Interview (CFI) Informant Version](#cultural-formulation-interview-cfi-informant-version)
   - [Alternative DSM-5 Model for Personality Disorders](#alternative-dsm-5-model-for-personality-disorders)
     - [Specific Personality Disorders](#specific-personality-disorders)
-      - [Antisocial Personality Disorder](#antisocial-personality-disorder)
-      - [Avoidant Personality Disorder](#avoidant-personality-disorder)
-      - [Borderline Personality Disorder](#borderline-personality-disorder-1)
-      - [Narcissistic Personaiity Disorder](#narcissistic-personaiity-disorder)
-      - [Obsessive-Compulsive and Schizotypal Personality Disorders](#obsessive-compulsive-and-schizotypal-personality-disorders)
-      - [Personality Disorder- Trait Specified](#personality-disorder--trait-specified)
     - [Personality Disorder Scoring Algorithms](#personality-disorder-scoring-algorithms)
     - [Personality Traits Definition and Description](#personality-traits-definition-and-description)
   - [Conditions for Further Study](#conditions-for-further-study)
@@ -5254,7 +5138,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
 - Significant comorbidity with numerous general medical symptoms and conditions: dizziness, cardiac arrhythmias, hyperthyroidism, asthma, COPD, irritable bowel syndrome.
 - Unclear association between panic disorder and these conditions.
 
-#####Panic Attack Specifier
+##### Panic Attack Specifier
 
 **Panic Attack Specifier**
 
@@ -5342,7 +5226,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
   - Substance use disorders.
 - Panic attacks are also associated with an increased risk of later developing anxiety disorders, depressive disorders, bipolar disorders, and possibly other disorders.
 
-#####Agoraphobia
+##### Agoraphobia
 
 **Agoraphobia Diagnostic Criteria (F40.00)**
 
@@ -5449,7 +5333,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
   - The most frequent additional diagnoses are other anxiety disorders (e.g., separation anxiety disorder, specific phobias, panic disorder), depressive disorders (major depressive disorder), PTSD, and alcohol use disorder.
 - While other anxiety disorders frequently precede the onset of agoraphobia, depressive disorders and substance use disorders typically occur secondary to agoraphobia.
 
-#####Generalized Anxiety Disorder
+##### Generalized Anxiety Disorder
 
 **Generalized Anxiety Disorder (GAD)**
 
@@ -5540,7 +5424,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
 - Individuals with generalized anxiety disorder are likely to have met criteria for other anxiety and unipolar depressive disorders
 - Comorbidity with substance use, conduct, psychotic, neurodevelopmental, and neurocognitive disorders is less common.
 
-#####Substance/Medication-Induced Anxiety Disorder
+##### Substance/Medication-Induced Anxiety Disorder
 
 **Substance/Medication-Induced Anxiety Disorder**
 
@@ -5609,7 +5493,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
 5. **Insufficient Evidence:**
    - When evidence insufficient to determine etiology (substance/medication or another medical condition), diagnose with other specified or unspecified anxiety disorder.
 
-#####Anxiety Disorder Due to Another Medical Condition
+##### Anxiety Disorder Due to Another Medical Condition
 
 **Anxiety Disorder Due to Another Medical Condition (F06.4)**
 
@@ -5657,7 +5541,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
 * **Adjustment Disorders**: Anxiety symptoms in adjustment disorders are maladaptive responses to stress about having a general medical condition, while anxiety disorder due to another medical condition involves prominent physical symptoms and focusing on issues other than stress. Associated features of another mental disorder should also be considered when making the diagnosis.
 * **Other Specified or Unspecified Anxiety Disorder**: Given when it cannot be determined whether the anxiety symptoms are primary, substance-induced, or associated with another medical condition.
 
-#####Other Specified Anxiety Disorder 300.09
+##### Other Specified Anxiety Disorder 300.09
 
 **Anxiety Disorders: Other Specified and Unspecified Anxiety Disorders**
 
