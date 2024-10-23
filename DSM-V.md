@@ -1,6 +1,6 @@
 # DSM-5 Classification
 
-> The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), is the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers. DSM-5-TR includes the fully revised text and references, updated diagnostic criteria and ICD-10-CM codes since DSM-5 was published in 2013. It features a new disorder, Prolonged Grief Disorder, as well as codes for suicidal behavior available to all clinicians of any discipline without the requirement of any other diagnosis. - [Diagnostic and Statistical Manual of Mental Disorders, Revision 5](https://www.amazon.com/Diagnostic-Statistical-Disorders-Revision-Dsm-5-tr/dp/0890425760/&tag=cognitivetech-20)
+The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers. - [Diagnostic and Statistical Manual of Mental Disorders, Revision 5](https://www.amazon.com/Diagnostic-Statistical-Disorders-Revision-Dsm-5-tr/dp/0890425760/&tag=cognitivetech-20)
 
 ## Contents
 - [DSM-5 Classification for Neurodevelopmental Disorders](#dsm-5-classification-for-neurodevelopmental-disorders)
