@@ -5226,7 +5226,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
   - Substance use disorders.
 - Panic attacks are also associated with an increased risk of later developing anxiety disorders, depressive disorders, bipolar disorders, and possibly other disorders.
 
-##### Agoraphobia
+#### Agoraphobia
 
 **Agoraphobia Diagnostic Criteria (F40.00)**
 
@@ -5333,7 +5333,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
   - The most frequent additional diagnoses are other anxiety disorders (e.g., separation anxiety disorder, specific phobias, panic disorder), depressive disorders (major depressive disorder), PTSD, and alcohol use disorder.
 - While other anxiety disorders frequently precede the onset of agoraphobia, depressive disorders and substance use disorders typically occur secondary to agoraphobia.
 
-##### Generalized Anxiety Disorder
+#### Generalized Anxiety Disorder
 
 **Generalized Anxiety Disorder (GAD)**
 
@@ -5424,7 +5424,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
 - Individuals with generalized anxiety disorder are likely to have met criteria for other anxiety and unipolar depressive disorders
 - Comorbidity with substance use, conduct, psychotic, neurodevelopmental, and neurocognitive disorders is less common.
 
-##### Substance/Medication-Induced Anxiety Disorder
+#### Substance/Medication-Induced Anxiety Disorder
 
 **Substance/Medication-Induced Anxiety Disorder**
 
@@ -5493,7 +5493,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
 5. **Insufficient Evidence:**
    - When evidence insufficient to determine etiology (substance/medication or another medical condition), diagnose with other specified or unspecified anxiety disorder.
 
-##### Anxiety Disorder Due to Another Medical Condition
+#### Anxiety Disorder Due to Another Medical Condition
 
 **Anxiety Disorder Due to Another Medical Condition (F06.4)**
 
@@ -5541,7 +5541,7 @@ D. **Substantially outnumber non-seasonal MDD episodes over individual's lifetim
 * **Adjustment Disorders**: Anxiety symptoms in adjustment disorders are maladaptive responses to stress about having a general medical condition, while anxiety disorder due to another medical condition involves prominent physical symptoms and focusing on issues other than stress. Associated features of another mental disorder should also be considered when making the diagnosis.
 * **Other Specified or Unspecified Anxiety Disorder**: Given when it cannot be determined whether the anxiety symptoms are primary, substance-induced, or associated with another medical condition.
 
-##### Other Specified Anxiety Disorder 300.09
+#### Other Specified Anxiety Disorder 300.09
 
 **Anxiety Disorders: Other Specified and Unspecified Anxiety Disorders**
 
