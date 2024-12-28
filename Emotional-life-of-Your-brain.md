@@ -1,33 +1,92 @@
-# The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live—and How You Can Change Them 🔍
-Richard J. Davidson, Sharon Begley 🔍
+# The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live
+by Richard J. Davidson, Sharon Begley
 
-## About these notes.
+> Why are some people so quick to recover from setbacks? Why are some so attuned to others that they seem psychic? Why are some people always up and others always down? In his thirty-year quest to answer these questions, pioneering neuroscientist Richard J. Davidson discovered that each of us has an Emotional Style, composed of Resilience, Outlook, Social Intuition, Self-Awareness, Sensitivity to Context, and Attention. Where we fall on these six continuums determines our own “emotional fingerprint.”
+> 
+> Sharing Dr. Davidson’s fascinating case histories and experiments, The Emotional Life of Your Brain offers a new model for treating conditions like autism and depression as it empowers us all to better understand ourselves—and live more meaningful lives. - [The Emotional Life of Your Brain](https://www.amazon.com/Emotional-Life-Your-Brain-Live/dp/0452298881)
 
-First I converted epub to txt, then I used semantic chunking, but I also had to make sure chapter headings were the start of each chunk.
-
-This reduced my pre-processing to a few minutes, vs an hour or more of manual chunking.. but the quality of chunk has suffered. 
-
-**Model**: mistral 7b instruct 0.2 Q8
-
-**Template**:
-```
-<s>You are a bulleted notes specialist. [INST]```When creating comprehensive bulleted notes, you should follow these guidelines: Use multiple headings based on the referenced topics, not categories like quotes or terms. Headings should be surrounded by bold formatting and not be listed as bullet points themselves. Leave no space between headings and their corresponding list items underneath. Important terms within the content should be emphasized by setting them in bold font. Any text that ends with a colon should also be bolded. Before submitting your response, review the instructions, and make any corrections necessary to adhered to the specified format. Do not reference these instructions within the notes.``` \nBased on the content between backticks create comprehensive bulleted notes.[/INST]
-**Bulleted Note Creation Guidelines**
-
-**Headings**:
-- Based on referenced topics, not categories like quotes or terms
-- Surrounded by **bold** formatting 
-- Not listed as bullet points
-- No space between headings and list items underneath
-
-**Emphasis**:
-- **Important terms** set in bold font
-- **Text ending in a colon**: also bolded
-
-**Review**:
-- Ensure adherence to specified format
-- Do not reference these instructions in your response.</s>[INST] {{ .Prompt }} [/INST]
-```
+## Contents
+- [Introduction](#introduction)
+  - [Emotional Styles and Neuroscientific Research](#emotional-styles-and-neuroscientific-research)
+  - [Explanatory Power of Emotional Style](#explanatory-power-of-emotional-style)
+  - [Personal and Scientific Transformation](#personal-and-scientific-transformation)
+- [CHAPTER 1 One Brain Does Not Fit All](#chapter-1-one-brain-does-not-fit-all)
+  - [Emotional Style Research](#emotional-style-research)
+  - [Emotional Style and Brain Function](#emotional-style-and-brain-function)
+- [CHAPTER 2 The Discovery of Emotional Style](#chapter-2-the-discovery-of-emotional-style)
+  - [Cognition vs. Emotion Debate](#cognition-vs-emotion-debate)
+  - [Personal Experience and Early Convictions](#personal-experience-and-early-convictions)
+  - [Brain Studies on Emotions:](#brain-studies-on-emotions)
+  - [Paul Ekman's Influence on Emotion Research](#paul-ekmans-influence-on-emotion-research)
+  - [Discovering Emotions in the Prefrontal Cortex](#discovering-emotions-in-the-prefrontal-cortex)
+  - [Experimenting with Emotions in Psychology](#experimenting-with-emotions-in-psychology)
+  - [Emotion and Brain Functioning](#emotion-and-brain-functioning)
+- [CHAPTER 3 Assessing Your Emotional Style](#chapter-3-assessing-your-emotional-style)
+  - [Resilience Dimension: Recovery from Setbacks](#resilience-dimension-recovery-from-setbacks)
+  - [Social Intuition Dimension](#social-intuition-dimension)
+  - [Emotional Style: Sensitivity to Context Dimension](#emotional-style-sensitivity-to-context-dimension)
+  - [Attention Dimension:](#attention-dimension)
+  - [Attentional Blink Experiment](#attentional-blink-experiment)
+  - [Emotional Style Characteristics](#emotional-style-characteristics)
+- [CHAPTER 4 The Brain Basis of Emotional Style](#chapter-4-the-brain-basis-of-emotional-style)
+  - [Brain Research on Resilience: Prefrontal Cortex and Amygdala Connection](#brain-research-on-resilience-prefrontal-cortex-and-amygdala-connection)
+  - [Understanding Resilience and Social Intuition](#understanding-resilience-and-social-intuition)
+  - [Three Monkeys and Sensitivity to Context](#three-monkeys-and-sensitivity-to-context)
+  - [Study of Brain Function: EEG vs fMRI](#study-of-brain-function-eeg-vs-fmri)
+  - [Reward Circuit and Emotional Style](#reward-circuit-and-emotional-style)
+  - [Brain Research on Attentional Differences](#brain-research-on-attentional-differences)
+  - [Emotion and Cognition](#emotion-and-cognition)
+- [CHAPTER 5 How Emotional Style Develops](#chapter-5-how-emotional-style-develops)
+  - [Jerry Kagan's Research on Temperament and Behavioral Inhibition:](#jerry-kagans-research-on-temperament-and-behavioral-inhibition)
+  - [MAOA Gene and Criminal Behavior:](#maoa-gene-and-criminal-behavior)
+  - [Maternal Care and Brain Development in Baby Rats](#maternal-care-and-brain-development-in-baby-rats)
+  - [Epigenetics and Gene Expression](#epigenetics-and-gene-expression)
+  - [Behavioral Inhibition and Temperament Persistence: The Robie the Robot Studies](#behavioral-inhibition-and-temperament-persistence-the-robie-the-robot-studies)
+  - [Study Findings on Temperament Change over Time](#study-findings-on-temperament-change-over-time)
+  - [Effect of Environment on Genetics and Emotional Style](#effect-of-environment-on-genetics-and-emotional-style)
+- [CHAPTER 6 The Mind-Brain-Body Connection, or How Emotional Style Influences Health](#chapter-6-the-mind-brain-body-connection-or-how-emotional-style-influences-health)
+  - [Behavioral Medicine and Psychosomatic Medicine](#behavioral-medicine-and-psychosomatic-medicine)
+  - [Relationship between Positive Emotions and Health](#relationship-between-positive-emotions-and-health)
+  - [Effects of Positive Emotions on Health](#effects-of-positive-emotions-on-health)
+  - [Brain and Body Connection: Impact on Communication and Asthma](#brain-and-body-connection-impact-on-communication-and-asthma)
+  - [Study on Asthma and Emotional Responses](#study-on-asthma-and-emotional-responses)
+  - [Study Findings: Brain-Immune Connection](#study-findings-brain-immune-connection)
+  - [Experiment on Emotional Influence on Heart](#experiment-on-emotional-influence-on-heart)
+- [CHAPTER 7 Normal and Abnormal, and When “Different” Becomes Pathological](#chapter-7-normal-and-abnormal-and-when-different-becomes-pathological)
+  - [Emotional Style and Neurally Based Psychiatry](#emotional-style-and-neurally-based-psychiatry)
+  - [Emotional Style: Autism and Social Intuition](#emotional-style-autism-and-social-intuition)
+  - [Brain and Face Perception in Autism](#brain-and-face-perception-in-autism)
+  - [Findings on Amygdala Activity and Autism](#findings-on-amygdala-activity-and-autism)
+  - [Depression and Brain Activation Patterns](#depression-and-brain-activation-patterns)
+- [CHAPTER 8 The Plastic Brain](#chapter-8-the-plastic-brain)
+  - [Neuroplasticity and Brain Mapping](#neuroplasticity-and-brain-mapping)
+  - [Neuroscientific Discoveries Challenging Hardwired Beliefs](#neuroscientific-discoveries-challenging-hardwired-beliefs)
+  - [Neuroplasticity: The Brain's Ability to Adapt and Rewire](#neuroplasticity-the-brains-ability-to-adapt-and-rewire)
+  - [Mind over Matter](#mind-over-matter)
+- [CHAPTER 9 Coming Out of the Closet](#chapter-9-coming-out-of-the-closet)
+  - [Sri Lanka and India Travel Experience](#sri-lanka-and-india-travel-experience)
+  - [Personal Experience with Goenka's Lecture and Meditation](#personal-experience-with-goenkas-lecture-and-meditation)
+  - [The Dalai Lama and Neuroscience Study](#the-dalai-lama-and-neuroscience-study)
+  - [Experience with Tibetan Monks and Meditation](#experience-with-tibetan-monks-and-meditation)
+  - [Meditation Research: Bridging Science and Buddhism](#meditation-research-bridging-science-and-buddhism)
+  - [Matthieu's Meditation Experiment](#matthieus-meditation-experiment)
+  - [Experience with the Dalai Lama](#experience-with-the-dalai-lama)
+- [CHAPTER 10 The Monk in the Machine](#chapter-10-the-monk-in-the-machine)
+  - [Study of Meditation:](#study-of-meditation)
+  - [MBSR Study: The Development and Implementation](#mbsr-study-the-development-and-implementation)
+  - [Mindfulness Meditation and Brain Changes](#mindfulness-meditation-and-brain-changes)
+  - [Study on Meditation Training and Selective Attention](#study-on-meditation-training-and-selective-attention)
+  - [Study on Neural Synchrony during Meditation:](#study-on-neural-synchrony-during-meditation)
+  - [Compassion Meditation and Brain Changes](#compassion-meditation-and-brain-changes)
+- [CHAPTER 11 Rewired, or Neurally Inspired Exercises to Change Your Emotional Style](#chapter-11-rewired-or-neurally-inspired-exercises-to-change-your-emotional-style)
+  - [Emotional Styles and Set Points](#emotional-styles-and-set-points)
+  - [Techniques for Strengthening Prefrontal Cortex and Ventral Striatum Connection](#techniques-for-strengthening-prefrontal-cortex-and-ventral-striatum-connection)
+  - [Creating a Comprehensive Bulleted Note on Altering Your World for Better Outlook:](#creating-a-comprehensive-bulleted-note-on-altering-your-world-for-better-outlook)
+  - [Mindful Breathing Practice:](#mindful-breathing-practice)
+  - [Working Environment](#working-environment)
+  - [Description of Situation:](#description-of-situation)
+  - [Social Intuition: Empathy and Understanding Social Cues](#social-intuition-empathy-and-understanding-social-cues)
+  - [Anxiety Management through Context Awareness](#anxiety-management-through-context-awareness)
 
 ## Introduction
 

@@ -1,4 +1,4 @@
-# Summary of Dr. David Frawley's Ayurveda and the Mind
+# Dr. David Frawley's Ayurveda and the Mind
 
 ## EDITORS NOTE
 **This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) using both [SynthIA-7B-v2.0](https://huggingface.co/TheBloke/SynthIA-7B-v2.0-GGUF) and [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 

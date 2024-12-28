@@ -32,7 +32,13 @@ _Description:_
 - Repeated battles between gods, no resolution or learning
 - Violence used to restore order but doesn't address underlying issues
 
-### FROLICKING GODS
+## Contents
+- [FROLICKING GODS](#frolicking-gods)
+- [SIMPLICITY](#simplicity)
+- [DOMINANT MYTH](#dominant-myth)
+- [NO RIVAL](#no-rival)
+
+## FROLICKING GODS
 
 **Babylonian Myth: Creation through Violence**
 
@@ -77,7 +83,7 @@ _Description:_
 - Biblical myth: good God creates good creation.
 - Violence emerges as a problem requiring solution.
 
-### SIMPLICITY
+## SIMPLICITY
 
 **Myth of Simplicity and the Babylonian Myth of Creation:**
 
@@ -114,7 +120,7 @@ _Description:_
 - This myth is the story of the victory of order over chaos through violence.
 - It's the ideology of conquest and original religion of the status quo.
 
-### DOMINANT MYTH
+## DOMINANT MYTH
 
 **Dominant Myth: The Babylonian Myth and Redemptive Violence in Contemporary America**
 
@@ -146,7 +152,7 @@ The Babylonian myth, with its themes of redemptive violence, is a dominant myth 
 - Average child logs 36,000 hours of television by age 18, viewing some 15,000 murders
 - Church or synagogue cannot keep pace with the myth of redemptive violence in hours spent teaching children or quality of presentation.
 
-### NO RIVAL
+## NO RIVAL
 
 **Myth of Redemptive Violence**
 
@@ -176,9 +182,7 @@ The Babylonian myth, with its themes of redemptive violence, is a dominant myth 
 - Children are exposed to this myth from an early age and continue into adulthood.
 - Modern violence goes beyond redemption and becomes an end in itself, leading to desensitization and imitation in real life.
 
-### Walter Wink is Professor of Biblical Interpretation at Auburn Theological Seminary in New York City. Among his many publications are The Bible in Huma
-
-**Walter Wink**
+## Walter Wink
 
 - Professor of Biblical Interpretation at Auburn Theological Seminary in New York City
 - Published numerous works, including:

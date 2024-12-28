@@ -1,4 +1,7 @@
 # Attachment and Loss Volume Two, John Bowlby
+
+> Dr. Bowlby's second pioneering volume examines the effect of separation on the development of the child and the psychopathology that often follows separation. The experience of separation and the ensuing susceptibility to anxiety, anger, and fear constitute the flip side of the attachment phenomenon. In an authoritative new foreword to Bowlby's classic study, Stephen Mitchell (who gives resonant voice to the relational perspective in psychoanalysis) bridges the distance between attachment theory and the psychoanalytic tradition. - [Attachment and loss, vol.II: Separation](https://www.amazon.com/Attachment-loss-vol-II-John-Bowlby/dp/B0006W3VSA?&tag=cognitivetech-20) 
+
 ## Volume II
 ### Attachment-caregiving: one type of social bond
 

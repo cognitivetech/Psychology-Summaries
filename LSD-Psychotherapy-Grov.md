@@ -1,8 +1,4 @@
-# Summary of LSD Psychotherapy: The Healing Potential of Psychedelic Medicine 
-
-by STANISLAV GROF
-
-**This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
+# LSD Psychotherapy: The Healing Potential of Psychedelic Medicine by STANISLAV GROF
 
 > **LSD Psychotherapy is a complete account of a remarkable chapter in the ever-continuing inquiry into our transpersonal nature and origins.**
 > 
@@ -14,7 +10,6 @@ by STANISLAV GROF
 > 
 > LSD Psychotherapy is a valuable source of information for those who are involved with LSD in any way, whether as parents, teachers, researchers, legislators, or students of the human psyche. The approach to healing described in this book is inspired by the eternal desire of humankind for wholeness and an enduring grasp of reality. - [LSD Psychotherapy](https://www.amazon.com/Psychotherapy-Healing-Potential-Psychedelic-Medicine/dp/0979862205?&tag=cognitivetech-20)
 
----
 ## Contents
 - [PREFACE](#preface)
 - [1. HISTORY OF LSD THERAPY](#1-history-of-lsd-therapy)
@@ -59,8 +54,6 @@ by STANISLAV GROF
 - [APPENDIX: Crisis Intervention in Situations Related to Unsupervised Use of Psychedelics](#appendix-crisis-intervention-in-situations-related-to-unsupervised-use-of-psychedelics)
 - [APPENDIX: The Effects of LSD on Chromosomes, Genetic Mutation , Fetal Development and Malignancy](#appendix-the-effects-of-lsd-on-chromosomes-genetic-mutation--fetal-development-and-malignancy)
 
-
----
 ## PREFACE
 
 **Psychedelic Therapy: LSD and the Search for New Understandings**

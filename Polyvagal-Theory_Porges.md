@@ -1,7 +1,7 @@
 # The Polyvagal Theory
 by Stephen W Porges
 
-> This book compiles, for the first time, Stephen W. Porges’s decades of research. A leading expert in developmental psychophysiology and developmental behavioral neuroscience, Porges is the mind behind the groundbreaking Polyvagal Theory, which has startling implications for the treatment of anxiety, depression, trauma, and autism. Adopted by clinicians around the world, the Polyvagal Theory has provided exciting new insights into the way our autonomic nervous system unconsciously mediates social engagement, trust, and intimacy. - [Polyvagal Theory (Amazon)](https://www.amazon.com/Polyvagal-Theory-Neurophysiological-Communication-Self-regulation/dp/0393707008)
+> This book compiles, for the first time, Stephen W. Porges’s decades of research. A leading expert in developmental psychophysiology and developmental behavioral neuroscience, Porges is the mind behind the groundbreaking Polyvagal Theory, which has startling implications for the treatment of anxiety, depression, trauma, and autism. Adopted by clinicians around the world, the Polyvagal Theory has provided exciting new insights into the way our autonomic nervous system unconsciously mediates social engagement, trust, and intimacy. - [The Polyvagal Theory](https://www.amazon.com/Polyvagal-Theory-Neurophysiological-Communication-Self-regulation/dp/0393707008)
 
 ## Contents
 - [Summary](#summary)

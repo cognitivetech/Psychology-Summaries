@@ -1,4 +1,4 @@
-# Summary of The Psychology Major's Companion: Everything You Need to Know to Get You Where You Want to Go Second Edition, Dana S. Dunn and Jane S. Halonen
+# The Psychology Major's Companion: Everything You Need to Know to Get You Where You Want to Go Second Edition, Dana S. Dunn and Jane S. Halonen
 
 ## EDITORS NOTE
 **This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) and [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 

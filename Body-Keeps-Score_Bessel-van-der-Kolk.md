@@ -1,4 +1,4 @@
-# Summary of Bessel van der Kolk's The Body Keeps the Score
+# Bessel van der Kolk's The Body Keeps the Score
 
 **This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
 

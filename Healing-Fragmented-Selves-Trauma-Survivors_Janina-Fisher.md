@@ -1,11 +1,6 @@
-# Summary of Janina Fisher's Healing the Fragmented Selves of Trauma Survivors, 
+# Healing the Fragmented Selves of Trauma Survivors by Janina Fisher
 
-## EDITORS NOTE
-**This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) and mostly [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 
-
-**If you appreciate this work, feel free to buy the original using my referral-link**
-
-* [Healing the Fragmented Selves of Trauma Survivors: Overcoming Internal Self-Alienation](https://www.amazon.com/Healing-Fragmented-Selves-Trauma-Survivors/dp/0415708230/?&tag=cognitivetech-20)
+> Healing the Fragmented Selves of Trauma Survivors integrates a neurobiologically informed understanding of trauma, dissociation, and attachment with a practical approach to treatment, all communicated in straightforward language accessible to both client and therapist. Readers will be exposed to a model that emphasizes "resolution"―a transformation in the relationship to one’s self, replacing shame, self-loathing, and assumptions of guilt with compassionate acceptance. Its unique interventions have been adapted from a number of cutting-edge therapeutic approaches, including Sensorimotor Psychotherapy, Internal Family Systems, mindfulness-based therapies, and clinical hypnosis. Readers will close the pages of Healing the Fragmented Selves of Trauma Survivors with a solid grasp of therapeutic approaches to traumatic attachment, working with undiagnosed dissociative symptoms and disorders, integrating "right brain-to-right brain" treatment methods, and much more. Most of all, they will come away with tools for helping clients create an internal sense of safety and compassionate connection to even their most dis-owned selves. - [Healing the Fragmented Selves of Trauma Survivors: Overcoming Internal Self-Alienation](https://www.amazon.com/Healing-Fragmented-Selves-Trauma-Survivors/dp/0415708230/?&tag=cognitivetech-20)
 
 ## Contents
 - [Contents](#contents)

@@ -1,14 +1,9 @@
 # Yoga Therapy and Polyvagal Theory The Convergence of Traditional Wisdom and Contemporary Neuroscience for Self-Regulation and Resilience
 Marlysa B. Sullivan, Matt Erb, Laura Schmalzl, Steffany Moonaz, Jessica Noggle Taylor, and Stephen W. Porges
 
-## EDITORS NOTE
-**This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) using [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 
-
-**If you appreciate this work, feel free to buy the original**
-
-* [Polyvagal Safety: Attachment, Communication, Self-Regulation](https://www.amazon.com/Polyvagal-Safety-Attachment-Communication-Self-Regulation/dp/1324016272/?&tag=cognitivetech-20)
-
-or read online here: [Yoga Therapy and Polyvagal Theory: The Convergence of Traditional Wisdom and Contemporary Neuroscience for Self-Regulation and Resilience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835127/)
+> Ever since publication of The Polyvagal Theory in 2011, demand for information about this innovative perspective has been constant. Here Stephen W. Porges brings together his most important writings since the publication of that seminal work. At its heart, polyvagal theory is about safety. It provides an understanding that feeling safe is dependent on autonomic states, and that our cognitive evaluations of risk in the environment, including identifying potentially dangerous relationships, play a secondary role to our visceral reactions to people and places.
+> 
+> Our reaction to the continuing global pandemic supports one of the central concepts of polyvagal theory: that a desire to connect safely with others is our biological imperative. Indeed, life may be seen as an inherent quest for safety. These ideas, and more, are outlined in chapters on therapeutic presence, group psychotherapy, yoga and music therapy, autism, trauma, date rape, medical trauma, and COVID-19. -  [Polyvagal Safety: Attachment, Communication, Self-Regulation](https://www.amazon.com/Polyvagal-Safety-Attachment-Communication-Self-Regulation/dp/1324016272/?&tag=cognitivetech-20) ([read online](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5835127/))
 
 ## Contents
 - [INTRODUCTION](#introduction)
@@ -28,7 +23,6 @@ or read online here: [Yoga Therapy and Polyvagal Theory: The Convergence of Trad
 - [DISCUSSION](#discussion)
 - [IMPLICATIONS AND FUTURE DIRECTIONS](#implications-and-future-directions)
 - [CONCLUSION](#conclusion)
-- [REFERENCES](#references)
 
 ## INTRODUCTION
 **Mind-body therapies and self-regulation**
@@ -272,14 +266,6 @@ or read online here: [Yoga Therapy and Polyvagal Theory: The Convergence of Trad
   * Eased suffering
   * Potential experience of steadfast joy (eudaemonia)
 
-**References:**
-Bawra, M. (2012). The Yoga Sutras of Patanjali: A New Translation. Shambhala Publications.
-Easwaran, E. (2007). The Bhagavad Gita. Nilgiri Press.
-Mallinson, J., & Singleton, M. (2017). The Yoga Sutras of Patanjali: A New Translation. Penguin Books.
-Miller, J. I. (2012). Living Your Yoga: Finding the Spiritual in Everyday Life. Rodmell Press.
-Stoler-Miller, G. (1998). The Inner Tradition of Hatha Yoga: Its History, Philosophy, and Psychology. Shambhala Publications.
-Stoler-Miller, G. (2004). The Inner Heart of Yoga: A Guide to the Yoga Sutras of Patanjali. Shambhala Publications.
-
 ## THE GUNAS, QUALITIES OF MATERIAL NATURE
 - Three qualities of material nature, shaping characteristics of everything in the BME (Bawra, 2012; Miller, 2012)
 - Enable dynamism and unique qualities in the BME (Bawra, 2012; Miller, 2012; Stoler-Miller, 2004)
@@ -445,18 +431,6 @@ Stoler-Miller, G. (2004). The Inner Heart of Yoga: A Guide to the Yoga Sutras of
   * Pranayama (breathing exercises)
   * Meditation
 
-**References:**
-- **Bawra, S. (2012). The Bhagavad Gita**: A Practical Guide to Enlightenment. Shambhala Publications.
-- **Chu, D., et al. (2017). Effects of yoga on cardiac autonomic function in older adults**: A systematic review and meta-analysis. Journal of Alternative and Complementary Medicine, 23(5), 489-496.
-- **Kolacz, K., & Porges, S. W. (2018). The Polyvagal Theory in Yoga**: An Integrative Approach to Physiology and Psychology. In Handbook of Yoga Science and Practice (pp. 357-369). Springer, Cham.
-- **Miller, P. D. (2012). The Essence of the Bhagavad Gita**: A New Translation and Commentary for Contemporary Readers. Shambhala Publications.
-- **Porges, S. W., & Kolacz, K. (2018). Polyvagal theory in yoga**: An integrative approach to physiology and psychology. In Handbook of Yoga Science and Practice (pp. 349-356). Springer, Cham.
-- Sarang, V., & Telles, S. (2006). Effects of pranayama on heart rate variability in healthy subjects. Journal of the American Geriatrics Society, 54(1), 117-123.
-- **Stoler-Miller, S. (2004). The Bhagavad Gita**: A Modern Translation and Commentary. Shambhala Publications.
-- **Sullivan, M., et al. (2018). Yoga as an adjunctive intervention for depression**: A systematic review and meta-analysis. Depression and Anxiety, 35(4), 329-346.
-- **Telles, S., et al. (2016). Effects of yoga on heart rate variability in healthy subjects**: A systematic review. Journal of Alternative and Complementary Medicine, 22(8), 675-682.
-- Tyagi, D., & Cohen, L. G. (2016
-
 ## YOGA’S PRACTICES TO CULTIVATE RESILIENCE
 * Yoga practices promote resilience by activating Sattva and optimizing autonomic control
 
@@ -574,80 +548,3 @@ Stoler-Miller, G. (2004). The Inner Heart of Yoga: A Guide to the Yoga Sutras of
 
 - Informs integration of yoga interventions for various patient populations and conditions
 
-## REFERENCES
-Bawra, B. V. (2012). Samkhya Karika. Ravenna, OH: Brahmrishi Yoga.
-Berntson, G. G., Cacioppo, J. T., & Quigley, K. S. (1991). Autonomic determinism: The modes of autonomic control, the doctrine of autonomic space and the laws of autonomic constraint. Psychological Review, 98, 459–487. doi:10.1037/0033-295x.98.4.459
-Black, D. S., Cole, S. W., Irwin, M. R., Breen, E., St. Cyr, N. M., Nazarian, N., Khalsa, D. S., & Lavretsky, H. (2013). Yogic meditation reverses NF-κB and IRF-related transcriptome dynamics in leukocytes of family dementia caregivers in a randomized controlled trial. Psychoneuroendocrinology, 38, 348–355. doi:10.1016/j.psyneuen.2012.06.011
-Bower, J. E., Greendale, G., Crosswell, A. D., Garet, D., Sternlieb, B., Ganz, P. A., Irwin, M. R., Olmstead, R., Arevalo, J., & Cole, S. W. (2014). Yoga reduces inflammatory signaling in fatigued breast cancer survivors: A randomized controlled trial. Psychoneuroendocrinology, 43, 20–29. doi:10.1016/j.psyneuen.2014.01.019
-Brown, R. P., & Gerbarg, P. L. (2005a). Sudarshan Kriya yogic breathing in the treatment of stress, anxiety, and depression: Part II—clinical applications and guidelines. Journal of Alternative and Complementary Medicine, 11, 711–717. doi:10.1089/acm.2005.11.711
-Brown, R. P., & Gerbarg, P. L. (2005b). Sudarshan Kriya yogic breathing in the treatment of stress, anxiety, and depression: Part I—neurophysiologic model. Journal of Alternative and Complementary Medicine, 11, 189–201. doi:10.1089/acm.2005.11.189
-Brown, R. P., & Gerbarg, P. L. (2012). The healing power of the breath: Simple techniques to reduce stress and anxiety, enhance concentration and balance your emotions. Boston, MA: Trumpeter.
-Brown, R. P., Gerbarg, P. L., & Muench, F. (2013). Breathing practices for treatment of psychiatric and stress-related medical conditions. Psychiatric Clinics of North America, 36, 121–140. doi:10.1016/j.psc.2013.01.001
-Ceunen, E., Vlaeyen, J. W., & Van Diest, I. (2016). On the origin of interoception. Frontiers in Psychology, 7, 743. doi:10.3389/fpsyg.2016.00743
-Chu, I.-H., Wu, W.-L., Lin, I.-M., Chang, Y.-K., Lin, Y.-J., & Yang, P.-C. (2017). Effects of yoga on heart rate variability and depressive symptoms in women: A randomized controlled trial. Journal of Alternative and Complementary Medicine, 23, 310–316. doi:10.1089/acm.2016.0135
-Cole, S. W. (2013). Social regulation of human gene expression: Mechanisms and implications for public health. American Journal of Public Health, 103, S84–S92. doi:10.2105/ajph.2012.301183
-Cole, S. W., Levine, M. E., Arevalo, J. M., Ma, J., Weir, D. R., & Crimmins, E. M. (2015). Loneliness, eudaimonia and the human conserved transcriptional response to adversity. Psychoneuroendocrinology, 62, 11–17. doi:10.1016/j.psyneuen.2015.07.001
-Cottingham, J. T., Porges, S. W., & Lyon, T. (1988). Effects of soft tissue mobilization (Rolfing pelvic lift) on parasympathetic tone in two age groups. Physical Therapy, 68, 352–356. doi:10.1093/ptj/68.3.352
-Cottingham, J. T., Porges, S. W., & Richmond, K. (1988). Shifts in pelvic inclination angle and parasympathetic tone produced by rolfing soft tissue manipulation. Physical Therapy, 68, 1364– 1.    doi:10.1093/ptj/68.9.1364
-Craig, A. D. (2015). How do you feel? An interoceptive moment with your neurobiological self. Princeton, NJ: Princeton University Press.
-Cramer, H., Anheyer, D., Lauche, R., & Dobos, G. (2017). A systematic review of yoga for major depressive disorder. Journal of Affective Disorders, 213, 70–77. doi:10.1016/j.jad.2017.02.006
-Dale, L. P., Carroll, L. E., Galen, G., Hayes, J. A., Webb, K. W., & Porges, S. W. (2009). Abuse history is related to autonomic regulation to mild exercise and psychological wellbeing. Applied Psychophysiology and Biofeedback, 34, 299–308. doi:10.1007/s10484-009-9111-4
-Dale, L. P., Carroll, L. E., Galen, G. C., Schein, R., Bliss, A., Mattison, A. M., & Neace, W. (2011). Yoga practice may buffer the deleterious effects of abuse on women’s self-concept and dysfunctional coping. Journal of Aggression, Maltreatment, and Trauma, 20, 90–102. doi:10.1080/10926771.2011.538005
-Easwaran, E. (Trans.). (2007). The Upanishads. Tomales, CA: Blue Mountain Center of Meditation.
-Eckberg, D. L. (2003). The human respiratory gate. Journal of Physiology, 548, 339–352. doi:10.1113/jphysiol.2002.037192
-Farb, N., Daubenmier, J., Price, C. J., Gard, T., Kerr, C., Dunn, B. D., Klein, A. C., Paulus, M. P., & Mehling, W. E. (2015). Interoception, contemplative practice and health. Frontiers in Psychology, 6, 763. doi:10.3389/fpsyg.2015.00763
-Felitti, V. J., Anda, R. F., Nordenberg, D., Williamson, D. F., Spitz, A. M., Edwards, V., Koss, M. P., & Marks, J. S. (1998). Relationship of childhood abuse and household dysfunction to many of the leading causes of death in adults. American Journal of Preventive Medicine, 14, 245–258. doi:10.1016/s0749-3797(98)00017-8
-Fiori, F., Aglioti, S. M., & David, N. (2017). Interactions between body and social awareness in yoga. Journal of Alternative and Complementary Medicine, 23, 227–233. doi:10.1089/acm.2016.0169
-Fredrickson, B. L., Grewen, K. M., Coffey, K. A., Algoe, S. B., Firestine, A. M., Arevalo, J. M., Ma, J., & Cole, S. W. (2013). A functional genomic perspective on human well-being. Proceedings of the National Academy of Sciences USA, 110, 13684–13689. doi:10.1073/pnas.1305419110
-Gard, T., Noggle, J. J., Park, C. L., Vago, D. R., & Wilson, A. (2014). Potential self-regulatory mechanisms of yoga for psychological health. Frontiers in Human Neuroscience, 8, 770. doi:10.3389/fnhum.2014.00770
-Haase, L., Stewart, J. L., Youssef, B., May, A. C., Isakovic, S., Simmons, A. N., Johnson, D. C., Potterat, E. G., & Paulus, M. P. (2016). When the brain does not adequately feel the body: Links between low resilience and interoception. Biological Psychology, 113, 37–45. doi:10.1016/j.biopsycho.2015.11.004
-Halifax, J. (2012). A heuristic model of enactive compassion. Current Opinion in Supportive and Palliative Care, 6, 228–235. doi:10.1097/spc.0b013e3283530fbe
-Hayano, J., & Yasuma, F. (2003). Hypothesis: Respiratory sinus arrhythmia is an intrinsic resting function of cardiopulmonary system. Cardiovascular Research, 58, 1–9. doi:10.1016/s0008- 6363(02)00851-9
-Henje Blom, E., Duncan, L. G., Ho, T. C., Connolly, C. G., LeWinn, K. Z., Chesney, M., Hecht, F. M., & Yang, T. T. (2014). The development of an RDoC-based treatment program for adolescent depression: “Training for Awareness, Resilience, and Action” (TARA). Frontiers in Human Neuroscience, 8, 630. doi:10.3389/fnhum.2014.00630
-Hofmann, S. G., Andreoli, G., Carpenter, J. K., & Curtiss, J. (2016). Effect of hatha yoga on anxiety: A meta-analysis: Yoga for anxiety. Journal of Evidence-Based Medicine, 9, 116–124. doi:10.1111/jebm.12204
-Ivtzan, I., & Papantoniou, A. (2014). Yoga meets positive psychology: Examining the integration of hedonic (gratitude) and eudaimonic (meaning) wellbeing in relation to the extent of yoga practice. Journal of Bodywork and Movement Therapy, 18, 183–189. doi:10.1016/j.jbmt.2013.11.005
-Jackson, J. H. (1884). The Croonian lectures on evolution and dissolution of the nervous system. British Medical Journal, 1, 703–707. doi:10.1016/s0140-6736(02)23422-4
-Jeter, P. E., Slutsky, J., Singh, N., & Khalsa, S. B. S. (2015). Yoga as a therapeutic intervention: A bibliometric analysis of published research studies from 1967 to 2013. Journal of Alternative and Complementary Medicine, 21, 586–592. doi:10.1089/acm.2015.0057
-Keyes, C. L., & Simoes, E. J. (2012). To flourish or not: Positive mental health and all-cause mortality. American Journal of Public Health, 102, 2164–2172. doi:10.2105/ajph.2012.300918
-Khattab, K., Khattab, A. A., Ortak, J., Richardt, G., & Bonnemeier, H. (2007). Iyengar yoga increases cardiac parasympathetic nervous modulation among healthy yoga practitioners. Evidence-Based Complementary and Alternative Medicine, 4, 511–517. doi:10.1093/ecam/nem087
-Kolacz, J., & Porges, S. W. (2018). Chronic diffuse pain and functional gastrointestinal disorders after traumatic stress: Pathophysiology through a polyvagal perspective. Frontiers in Medicine, 5, 145.
-Larson, G. J., & Isvarakrsna. (2014). Classical Samkhya: An interpretation of its history and meaning. Delhi: Motilal Banarsidass.
-Mackenzie, M. J., Carlson, L. E., Paskevich, D. M., Ekkekakis, P., Wurz, A. J., Wytsma, K., Krenz, K. A., McAuley, E., & Culos-Reed, S. N. (2014). Associations between attention, affect, and cardiac activity in a single yoga session for female cancer survivors: An enactive neurophenomenology-based approach. Consciousness and Cognition, 27, 129–146. doi:10.1016/j.concog.2014.04.005
-Mallinson, J., & Singleton, M. (2017). Roots of yoga. London: Penguin.
-Mehling, W. E., Wrubel, J., Daubenmier, J. J., Price, C. J., Kerr, C. E., Silow, T., Gopisetty, V., & Stewart, A. L. (2011). Body awareness: A phenomenological inquiry into the common ground of mind-body therapies. Philosophy, Ethics, and Humanities in Medicine, 6, 6. doi:10.1186/17475341-6-6
-Miller, R. (2012). The Samkhya Karika. San Rafael, CA: Integrative Restoration Institute.
-Muehsam, D., Lutgendorf, S., Mills, P. J., Rickhi, B., Chevalier, G., Bat, N., Chopra, D., & Gurfein, B. (2017). The embodied mind: A review on functional genomic and neurological correlates of mind-body therapies. Neuroscience and Biobehavoral Reviews, 73, 165–181. doi:10.1016/j.neubiorev.2016.12.027
-Ostwald, M. (1962). Aristotle: Nicomachean ethics. Indianapolis: Library of Liberal Arts.
-Park, G., & Thayer, J. F. (2014). From the heart to the mind: Cardiac vagal tone modulates top-down and bottom-up visual perception and attention to emotional stimuli. Frontiers in Psychology, 5, 1.   doi:10.3389/fpsyg.2014.00278
-Pascoe, M. C., & Bauer, I. E. (2015). A systematic review of randomised control trials on the effects of yoga on stress measures and mood. Journal of Psychiatric Research, 68, 270–282. doi:10.1016/j.jpsychires.2015.07.013
-Payne, P., & Crane-Godreau, M. A. (2015). The preparatory set: A novel approach to understanding stress, trauma and the bodymind therapies. Frontiers in Human Neuroscience, 9, 178. doi:10.3389/fnhum.2015.00178
-Porges, S. W. (1993). The infant’s sixth sense: Awareness and regulation of bodily processes. Zero to Three, 14, 12–16.
-Porges, S. W. (1995). Orienting in a defensive world: Mammalian modifications of our evolutionary heritage. A Polyvagal Theory. Psychophysiology, 32, 301–318. doi:10.1111/j.1469- 8986.1995.tb01213.x
-Porges, S. W. (1998). Love: An emergent property of the mammalian autonomic nervous system. Psychoneuroendocrinology, 23, 837–861. doi:10.1016/s03064530(98)00057-2
-Porges, S. W. (2001). The Polyvagal Theory: Phylogenetic substrates of a social nervous system. International Journal of Psychophysiology, 42, 123–146. doi:10.1016/s01678760(01)00162-3
-Porges, S. W. (2003). The Polyvagal Theory: Phylogenetic contributions to social behavior. Physiology and Behavior, 79, 503–513. doi:10.1016/s0031-9384(03)00156-2
-Porges, S. W. (2004). Neuroception: A subconscious system for detecting threats and safety. Zero to Three, 24, 19–24.
-Porges, S. W. (2007). The polyvagal perspective. Biological Psychology, 74, 116–143. doi:10.1016/j.biopsycho.2006.06.009
-Porges, S. W. (2009). The Polyvagal Theory: New insights into adaptive reactions of the autonomic nervous system. Cleveland Clinic Journal of Medicine, 76, S86–S90. doi:10.3949/ccjm.76.s2.17
-Porges, S. W. (2011). The Polyvagal Theory: Neurophysiological foundations of emotions, attachment, communication, and self-regulation. New York: Norton.
-Porges, S. W. (2017). Vagal pathways: Portals to compassion. In E. M. Seppala (Ed.), The Oxford handbook of compassion science (pp. 189–202). New York: Oxford University Press.
-Porges, S. W., & Carter, C. S. (2017). Polyvagal Theory and the social engagement system: Neurophysiological bridge between connectedness and health. In P. L. Gerbarg, P. R. Muskin, & R. P. Brown (Eds.), Complementary and integrative treatments in psychiatric practice (pp. 221–240). Arlington, VA: American Psychiatric Association.
-Porges, S. W., Doussard-Roosevelt, J. A., & Maiti, A. K. (2008). Vagal tone and the physiological regulation of emotion. Monographs of the Society for Research in Child Development, 59, 167– 1.   doi:10.1111/j.1540-5834.1994.tb01283.x
-Porges, S. W., & Kolacz, J. (2018). Neurocardiology through the lens of the Polyvagal Theory. In R. J. Gelpi & B. Buchholz (Eds.), Neurocardiology: Pathophysiological aspects and clinical implications (pp. 343-351). Amsterdam: Elsevier.
-Resnick, B., Galik, E., Dorsey, S., Scheve, A., & Gutkin, S. (2011). Reliability and validity testing of the physical resilience measure. Gerontologist, 51, 643–652. doi:10.1093/geront/gnr016
-Sarang, P., & Telles, S. (2006). Effects of two yoga based relaxation techniques on heart rate variability (HRV). International Journal of Stress Management, 13, 460–475.
-Schmalzl, L., Powers, C., & Henje Blom, E. (2015). Neurophysiological and neurocognitive mechanisms underlying the effects of yoga-based practices: Towards a comprehensive theoretical framework. Frontiers in Human Neuroscience, 9, 235. doi:10.3389/fnhum.2015.00235
-Singleton, M. (2010). Yoga body: The origins of modern posture practice. New York: Oxford University Press.
-Smith, R., Thayer, J. F., Khalsa, S. S., & Lane, R. D. (2017). The hierarchical basis of neurovisceral integration. Neuroscience and Biobehavioral Reviews, 75, 274–296. doi:10.1016/j.neubiorev.2017.02.003
-Stoler-Miller, B. (1998). Yoga: Discipline of freedom. New York: Bantam.
-Stoler-Miller, B. (Trans.). (2004). The Bhagavad-Gita. New York: Bantam Classics. Streeter, C. C., Gerbarg, P. L., Saper, R. B., Ciraulo, D. A., & Brown, R. P. (2012). Effects of yoga on the autonomic nervous system, gamma-aminobutyric-acid and allostasis in epilepsy, depression and post-traumatic stress disorder. Medical Hypotheses, 78, 571–579. doi:10.1016/j.mehy.2012.01.021
-Strigo, I. A., & Craig, A. D. (2016). Interoception, homeostatic emotions and sympathovagal balance. Philosophical Transactions of the Royal Society of London, B: Biological Sciences, 371, 1.        doi:10.1098/rstb.2016.0010
-Sullivan, M. B., Moonaz, S., Weber, K., Taylor, J. N., & Schmalzl, L. (2018). Toward an explanatory framework for yoga therapy informed by philosophical and ethical perspectives. Alternative Therapies in Health and Medicine, 24, 38–47.
-Taylor, A. G., Goehler, L. E., Galper, D. I., Innes, K. E., & Bourguignon, C. (2010). Top-down and bottom-up mechanisms in mind-body medicine: Development of an integrative framework for psychophysiological research. Explore, 6, 29–41. doi:10.1016/j.explore.2009.10.004
-Telles, S., Sharma, S. K., Gupta, R. K., Bhardwaj, A. K., & Balkrishna, A. (2016). Heart rate variability in chronic low back pain patients randomized to yoga or standard care. BMC Complementary and Alternative Medicine, 16, 279. doi:10.1186/s12906016-1271-1
-Thayer, J. F., & Lane, R. D. (2000). A model of neurovisceral integration in emotion regulation and dysregulation. Journal of Affective Disorders, 61 201–216. doi:10.1016/s0165-0327(00)00338-4
-Tsuji, H., Venditti, F. J., Jr., Manders, E. S., Evans, J. C., Larson, M. G., Feldman, C. L., & Levy, D. (1994). Reduced heart rate variability and mortality risk in an elderly cohort. The Framingham Heart Study. Circulation, 90, 878–883. doi:10.1161/01.cir.90.2.878
-Tugade, M. M., & Fredrickson, B. L. (2004). Resilient individuals use positive emotions to bounce back from negative emotional experiences. Journal of Personality and Social Psychology, 86, 320–333. doi:10.1037/0022-3514.86.2.320
-Tugade, M. M., & Fredrickson, B. L. (2007). Regulation of positive emotions: Emotion regulation strategies that promote resilience. Journal of Happiness Studies, 8, 311–333. doi:10.1007/s10902- 006-9015-4
-Tyagi, A., & Cohen, M. (2016). Yoga and heart rate variability: A comprehensive review of the literature. International Journal of Yoga, 9, 97–113. doi:10.4103/0973-6131.183712
-Whitson, H. E., Duan-Porter, W., Schmader, K. E., Morey, M. C., Cohen, H. J., & Colón-Emeric, C. S. (2016). Physical resilience in older adults: Systematic review and development of an emerging construct. Journals of Gerontology, A: Biological Sciences and Medical Sciences, 71, 489–495. doi:10.1093/gerona/glv202

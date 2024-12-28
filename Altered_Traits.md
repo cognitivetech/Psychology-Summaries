@@ -1,5 +1,7 @@
 # Altered Traits Daniel Goleman, Richard Davidson
 
+> Daniel Goleman and Richard J Davidson show us the truth about what meditation can really do for us, as well as exactly how to get the most out of it. Sweeping away common misconceptions and neuromythology to open listeners' eyes to the ways data has been distorted to sell mind-training methods, the authors demonstrate that beyond the pleasant states mental exercises can produce, the real payoffs are the lasting personality traits that can result. But short daily doses will not get us to the highest level of lasting positive change - even if we continue for years - without specific additions. More than sheer hours, we need smart practice, including crucial ingredients such as targeted feedback from a master teacher and a more spacious, less attached view of the self, all of which are missing in widespread versions of mind training. The authors also reveal the latest data from Davidson's own lab that point to a new methodology for developing a broader array of mind-training methods with larger implications for how we can derive the greatest benefits from the practice. Exciting, compelling, and grounded in new research, this is one of those rare books that has the power to change us at the deepest level. - [](https://www.amazon.com/Altered-Traits-Science-Reveals-Meditation/dp/B075M1ZY2P?&tag=cognitivetech-20)
+
 ## Contents
 - [The Deep Path and the Wide](#the-deep-path-and-the-wide)
   - [THE DEEP PATH](#the-deep-path)

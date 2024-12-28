@@ -1,10 +1,6 @@
-# Summary of Fifty Years of Attachment Theory: The Donald Winnicott Memorial Lecture 
+# Fifty Years of Attachment Theory: The Donald Winnicott Memorial Lecture 
 
-**This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
-
-**If you appreciate this work, feel free to buy the original  using my referral-link**
-
-[A Secure Base (Routledge Classics)](https://www.amazon.com/Fifty-Years-Attachment-Theory-Psychoanalysis/dp/1855753855/?&tag=cognitivetech-20)
+> This book is the second volume in the series based on the annual Donald Winnicott Memorial Lecture. It provides the personal and professional lives of Donald Winnicott and Dr John Bowlby, to give a fascinating insight into the worlds of these influential analysts. - [Fifty Years of Attachment Theory](https://www.amazon.com/Fifty-Years-Attachment-Theory-Psychoanalysis/dp/1855753855/?&tag=cognitivetech-20)
 
 ## Contents
 - [FOREWORD](#foreword)

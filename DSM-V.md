@@ -1,6 +1,6 @@
 # DSM-5 Classification
 
-The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers. - [Diagnostic and Statistical Manual of Mental Disorders, Revision 5](https://www.amazon.com/Diagnostic-Statistical-Disorders-Revision-Dsm-5-tr/dp/0890425760/&tag=cognitivetech-20)
+> The Diagnostic and Statistical Manual of Mental Disorders, is the most comprehensive, current, and critical resource for clinical practice available to today's mental health clinicians and researchers. - [Diagnostic and Statistical Manual of Mental Disorders, Revision 5](https://www.amazon.com/Diagnostic-Statistical-Disorders-Revision-Dsm-5-tr/dp/0890425760/&tag=cognitivetech-20)
 
 ## Contents
 - [DSM-5 Classification for Neurodevelopmental Disorders](#dsm-5-classification-for-neurodevelopmental-disorders)

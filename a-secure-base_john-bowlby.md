@@ -1,11 +1,6 @@
-# A Secure Base 
+# A Secure Base by John Bowlby
 
-## EDITORS NOTE
-**This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) using [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 
-
-**If you appreciate this work, feel free to buy the original  using my referral-link**
-
-[A Secure Base (Routledge Classics)](https://www.amazon.com/Secure-Base-Routledge-Classics-104/dp/0415355273/?&tag=cognitivetech-20)
+> As Bowlby himself points out in his introduction to this seminal childcare book, to be a successful parent means a lot of very hard work. Giving time and attention to children means sacrificing other interests and activities, but for many people today these are unwelcome truths. Bowlby’s work showed that the early interactions between infant and caregiver have a profound impact on an infant's social, emotional, and intellectual growth. Controversial yet powerfully influential to this day, this classic collection of Bowlby’s lectures offers important guidelines for child rearing based on the crucial role of early relationships. - [A Secure Base](https://www.amazon.com/Secure-Base-Routledge-Classics-104/dp/0415355273/?&tag=cognitivetech-20)
 
 ## Contents
 - [PREFACE TO THE ROUTLEDGE CLASSICS EDITION](#preface-to-the-routledge-classics-edition)

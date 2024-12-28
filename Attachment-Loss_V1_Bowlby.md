@@ -1,12 +1,6 @@
-# Summary of John Bowlby's "Attachment: Attachment and Loss Volume One"
+# Attachment: Attachment and Loss Volume One by John Bowlby
 
-## EDITORS NOTE
-**This is a summary** made with [PrivateGPT](https://github.com/imartinez/privateGPT) and [Mistral-7B-Instruct-v0.2](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF). 
-
-**If you appreciate this work, feel free to buy the original using my referral-link**
-
-* [Attachment: Attachment and Loss Volume One](https://www.amazon.com/Attachment-Loss-Basic-Books-Classics/dp/0465005438/?&tag=cognitivetech-20), John Bowlby 1983
-
+> This first volume of John Bowlby's Attachment and Loss series examines the nature of the child's ties to the mother. Beginning with a discussion of instinctive behavior, its causation, functioning, and ontogeny, Bowlby proceeds to a theoretical formulation of attachment behaviorhow it develops, how it is maintained, what functions it fulfills.In the fifteen years since Attachment was first published, there have been major developments in both theoretical discussion and empirical research on attachment. The second edition, with two wholly new chapters and substantial revisions, incorporates these developments and assesses their importance to attachment theory. [Attachment: Attachment and Loss Volume One](https://www.amazon.com/Attachment-Loss-Basic-Books-Classics/dp/0465005438/?&tag=cognitivetech-20) 
 
 ## Contents
 - [Summary of John Bowlby's "Attachment: Attachment and Loss Volume One"](#summary-of-john-bowlbys-attachment-attachment-and-loss-volume-one)

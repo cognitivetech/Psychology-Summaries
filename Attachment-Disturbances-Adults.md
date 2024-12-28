@@ -1,4 +1,4 @@
-# Summary of Attachment Disturbances in Adults: Treatment for Comprehensive Repair, by Daniel P. Brown PhD and David S. Elliott PhD
+# Attachment Disturbances in Adults: Treatment for Comprehensive Repair, by Daniel P. Brown PhD and David S. Elliott PhD
 
 **This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
 

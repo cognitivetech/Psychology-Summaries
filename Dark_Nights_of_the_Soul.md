@@ -1,6 +1,4 @@
-# Dark Nights of the Soul
-
-**This summary was made with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/).**
+# Dark Nights of the Soul by Thomas Moore
 
 > Our lives are filled with emotional tunnels: the loss of a loved one or end of a relationship, aging and illness, career disappointments or just an ongoing sense of dissatisfaction with life. Society tends to view these “dark nights” in clinical terms as obstacles to be overcome as quickly as possible. But Moore shows how honoring these periods of fragility as periods of incubation and positive opportunities to delve the soul’s deepest needs can provide healing and a new understanding of life’s meaning. Dark Nights of the Soul presents these metaphoric dark nights not as the enemy, but as times of transition, occasions to restore yourself, and transforming rites of passage, revealing an uplifting and inspiring new outlook on such topics as:
 > 
