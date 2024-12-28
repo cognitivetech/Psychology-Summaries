@@ -3,6 +3,7 @@
 Summarizing Psychology Texts with [Ollama eBook Summary](https://github.com/cognitivetech/ollama-ebook-summary/)
 
 ## Contents
+### Popular Press
 - [A Secure Base](a-secure-base_john-bowlby.md) by John Bowlby
 - [Altered Traits](Altered_Traits.md) by Daniel Goleman, Richard Davidson
 - [Brain Energy](Brain-Energy_Christopher-M-Palmer.md) by Christopher M Palmer
@@ -19,8 +20,7 @@ Summarizing Psychology Texts with [Ollama eBook Summary](https://github.com/cogn
 - [The Emotional Life of Your Brain: How Its Unique Patterns Affect the Way You Think, Feel, and Live](Emotional-life-of-Your-brain.md) by Richard J. Davidson, Sharon Begley
 - [The Polyvagal Theory](Polyvagal-Theory_Porges.md) by Stephen W Porges
 
-## Academic Texts
-
+### Academic Texts
 - [Attachment and Loss Volume One](Attachment-Loss_V1_Bowlby.md) John Bowlby
 - [Attachment and Loss Volume Two](Attachment-Loss_V2_Bowlby.md) John Bowlby
 - [DSM-5 Classification](DSM-V.md)
